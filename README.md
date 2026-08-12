@@ -1,69 +1,35 @@
 <div align="center">
 
-# 👋 Hi, I'm Thujeev
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=THUJEEV&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%7C%20Software%20Engineering%20%7C%20Tech&descAlignY=60&descSize=20" width="100%"/>
 
-### 🤖 AI/ML Engineer | 💻 Software Engineer | 🚀 Tech Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%F0%9F%A4%96;Software+Engineer+%F0%9F%92%BB;Building+Ideas+Into+Reality+%F0%9F%9A%80;Learning.+Building.+Innovating.+%E2%9C%A8" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;AI+%26+Machine+Learning;Software+Engineering;Building+the+Future+with+Code+🚀" />
+<br>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=thujeev15&label=Profile%20Views&color=00f7ff&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Thujeev15&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## ⚡ About Me
 
-- 🤖 AI/ML Engineer
-- 💻 Software Engineer
-- 🚀 Passionate about building innovative solutions
-- 🌱 Always learning new technologies
-- 🇱🇰 Based in Sri Lanka
+<table>
+<tr>
+<td width="55%">
 
----
+### Hey! I'm Thujeev 👋
 
-## 🛠️ Tech Stack
+I'm passionate about **Artificial Intelligence, Machine Learning and Software Engineering**.
 
-<div align="center">
+I enjoy turning ideas into real-world applications and continuously exploring new technologies.
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,mysql,mongodb,git,github,tensorflow,pytorch,vscode&perline=7" />
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=thujeev15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thujeev15&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 💻 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thujeev15&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🚀 What I'm Working On
-
-```text
-🤖 Artificial Intelligence
-🧠 Machine Learning
-💻 Software Engineering
-🌐 Web Development
-📊 Data & Intelligent Systems
-🚀 Real-world Projects
+```yaml
+name: Thujeev
+location: Sri Lanka 🇱🇰
+focus:
+  - Artificial Intelligence
+  - Machine Learning
+  - Software Engineering
+  - Web Development
+mindset: "Build. Learn. Repeat."
