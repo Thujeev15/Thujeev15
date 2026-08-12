@@ -48,22 +48,36 @@ I craft modern apps with a focus on clean UI, practical features, and continuous
 
 ---
 
-## 04 / Highlights
+## 04 / Gallery (placeholders — replace with your photos)
+
+<div align="center">
+  <img src="https://placehold.co/220x220?text=Photo+1&bg=07101f&fg=67E8F9" width="220" style="margin:6px"/>
+  <img src="https://placehold.co/220x220?text=Photo+2&bg=07101f&fg=67E8F9" width="220" style="margin:6px"/>
+  <img src="https://placehold.co/220x220?text=Photo+3&bg=07101f&fg=67E8F9" width="220" style="margin:6px"/>
+</div>
+
+You can replace these with local images (put them in an `images/` folder) or with direct URLs.
+
+Example local image markdown:
+
+```markdown
+![Me](images/profile.jpg)
+```
+
+Example remote image:
+
+```markdown
+![Me](https://example.com/your-photo.jpg)
+```
+
+---
+
+## 05 / Highlights
 
 - Built responsive web apps with React and Node.js.
 - Hands-on experience with REST APIs and CRUD apps.
 - Passionate about clean UX and maintainable code.
 - Always learning: new libs, patterns, and best practices.
-
----
-
-## 05 / Projects (examples)
-
-- Portfolio / Personal site — modern UI, responsive layout  
-- Task Manager — React + Node + MongoDB (auth, CRUD, filters)  
-- E-commerce prototype — product catalog, cart, checkout flow
-
-(Replace above with your repo links and brief descriptions.)
 
 ---
 
@@ -75,6 +89,4 @@ I craft modern apps with a focus on clean UI, practical features, and continuous
 
 ---
 
-<p align="center">
-  <em>Want this README adjusted (colours, different banner, or translate to Tamil)? Tell me which part to tweak.</em>
-</p>
+<p align="center"><em>Want different colours, banner or Tamil translation? Tell me which part to tweak.</em></p>
