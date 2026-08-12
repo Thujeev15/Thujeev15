@@ -1,107 +1,45 @@
-# 👋 Hi, I'm Thujeev Kamaleswaran
+<div align="center">
 
-### 💻 Software Engineering Student | Full-Stack Developer | Tech Enthusiast
+# 👋 Hey, I'm **Thujeev Kamaleswaran**
 
-I'm a passionate software engineering student who enjoys building modern,
-scalable, and user-friendly applications.
+### `Software Engineering Student` • `Full-Stack Developer` • `Tech Enthusiast`
 
-I love turning ideas into real-world projects and continuously learning
-new technologies to improve my development skills.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Ideas+into+Reality+%F0%9F%9A%80;Learning+%7C+Building+%7C+Improving+%F0%9F%94%A5;Future+Software+Engineer+%F0%9F%92%BB" />
 
----
-
-## 🚀 About Me
-
-- 🎓 Software Engineering Student
-- 💻 Interested in Full-Stack Development
-- 🌱 Currently improving my development skills
-- 🔭 Working on personal & academic projects
-- ⚡ Love building clean and meaningful applications
-- 🎯 Goal: Become a professional software engineer
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,html,css" />
-</p>
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
-
-### Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 🏥 Hospital Management System
-A software solution designed to manage hospital operations,
-patients, doctors, appointments and related workflows.
-
-**Tech:** JavaScript • Node.js • MySQL
-
-### 🍵 Chai Kadai
-A modern tea shop website with a clean and responsive user interface.
-
-**Tech:** HTML • CSS • JavaScript
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
+<br>
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&label=Followers&color=111827"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-Explore-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-## 💡 Developer Quote
+<div align="center">
 
-> "First, solve the problem. Then, write the code."
+## 🪐 About Me
 
----
+</div>
 
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
+<table>
+<tr>
+<td width="55%">
+
+### 👨‍💻 Who Am I?
+
+I'm **Thujeev Kamaleswaran**, a passionate Software Engineering student who enjoys creating modern, practical and user-friendly applications.
+
+I love exploring new technologies, solving problems and transforming ideas into real-world software.
+
+```text
+╭──────────────────────────────────╮
+│  🚀 Building                     │
+│  🧠 Learning                     │
+│  ⚡ Experimenting                │
+│  🎯 Improving                    │
+╰──────────────────────────────────╯
