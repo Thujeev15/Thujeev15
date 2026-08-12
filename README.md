@@ -1,92 +1,52 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,45:0b1026,75:111a3a,100:00d9ff&height=260&section=header&text=THUJEEV%20KSMaleswaran&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=SOFTWARE%20ENGINEERING%20%7C%20FULL-STACK%20DEVELOPMENT&descSize=16&descAlignY=62&animation=fadeIn"/>
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=750&lines=Building+digital+experiences+%F0%9F%9A%80;Turning+ideas+into+software;Learning.+Building.+Evolving.;Welcome+to+my+digital+space." />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/AVAILABLE_FOR-OPPORTUNITIES-00D9FF?style=flat-square&labelColor=07101f"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/GITHUB-Thujeev15-8B5CF6?style=flat-square&labelColor=07101f"/>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Thujeev15&style=flat-square&color=00D9FF&label=VISITORS&labelColor=07101f"/>
+  <img src="https://robohash.org/Thujeev15.png?size=220x220" alt="robot avatar" width="220" style="border-radius:12px;"/>
+  <h1>Hi, I'm <strong>Thujeev</strong></h1>
+  <p>Software Engineering Student · Full-Stack Developer</p>
+  <p>
+    <img src="https://img.shields.io/badge/Available-Open%20to%20Work-00D9FF?style=flat-square&labelColor=07101f"/>
+    &nbsp;
+    <a href="https://github.com/Thujeev15"><img src="https://img.shields.io/badge/GitHub-Thujeev15-8B5CF6?style=flat-square&labelColor=07101f"/></a>
+  </p>
 </p>
 
 ---
 
-## 01 / Profile
+## About
 
-Hi, I'm **Thujeev** 👋  
-Software Engineering Student · Full-Stack Developer · Builder
-
-I craft modern apps with a focus on clean UI, practical features, and continuous learning.
+I build clean, responsive web apps—frontend with React and reliable backends with Node.js. I enjoy turning ideas into working software and learning new tools.
 
 ---
 
-## 02 / Developer Card
+## Tech
 
-<pre align="center" style="font-family:monospace">
-╭────────────────────────────────────────────╮
-│                                            │
-│   THUJEEV KSMaleswaran                     │
-│                                            │
-│   SOFTWARE ENGINEERING · FULL‑STACK DEV     │
-│                                            │
-│   🔗 github.com/Thujeev15                   │
-│   💼 Status: BUILDING                       │
-│                                            │
-╰────────────────────────────────────────────╯
-</pre>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,python,git&perline=8" alt="tech icons"/>
+</p>
+
+- React · Node.js · JavaScript
+- MongoDB / MySQL · REST APIs
+- Java · Python
 
 ---
 
-## 03 / Tech Snapshot
+## Projects
 
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css,react,nodejs,mysql,mongodb,git,github&perline=11" alt="tech icons"/>
-
-- **Primary focus:** Frontend (React), Backend (Node.js), Databases (MySQL / MongoDB)
-- **Languages:** Java, JavaScript, Python, HTML, CSS
-- **Tools:** Git, GitHub, VS Code
+- Portfolio — personal site (React) — [link your project]
+- Task Manager — MERN stack CRUD app — [link your project]
 
 ---
 
-## 04 / Gallery (placeholders — replace with your photos)
+## Contact
 
-<div align="center">
-  <img src="https://placehold.co/220x220?text=Photo+1&bg=07101f&fg=67E8F9" width="220" style="margin:6px"/>
-  <img src="https://placehold.co/220x220?text=Photo+2&bg=07101f&fg=67E8F9" width="220" style="margin:6px"/>
-  <img src="https://placehold.co/220x220?text=Photo+3&bg=07101f&fg=67E8F9" width="220" style="margin:6px"/>
-</div>
+- GitHub: https://github.com/Thujeev15
+- Email: add your email here
 
-You can replace these with local images (put them in an `images/` folder) or with direct URLs.
+---
 
-Example local image markdown:
+_Replace the robot image with your photo:_
 
 ```markdown
 ![Me](images/profile.jpg)
 ```
 
-Example remote image:
-
-```markdown
-![Me](https://example.com/your-photo.jpg)
-```
-
----
-
-## 05 / Highlights
-
-- Built responsive web apps with React and Node.js.
-- Hands-on experience with REST APIs and CRUD apps.
-- Passionate about clean UX and maintainable code.
-- Always learning: new libs, patterns, and best practices.
-
----
-
-## 06 / Contact
-
-- GitHub: https://github.com/Thujeev15  
-- Email: add your email here  
-- LinkedIn: add your LinkedIn URL
-
----
-
-<p align="center"><em>Want different colours, banner or Tamil translation? Tell me which part to tweak.</em></p>
+Want it even simpler or translated to Tamil? I can adjust quickly.
