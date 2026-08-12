@@ -1,57 +1,107 @@
-<div align="center">
+# 👋 Hi, I'm Thujeev Kamaleswaran
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&text=THUJEEV%20KAMALESWARAN&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%E2%80%A2%20SOFTWARE%20ENGINEER&descAlignY=60&descSize=18&animation=twinkling&color=0:021B2D,45:064E68,75:0097A7,100:5DE6E8"/>
+### 💻 Software Engineering Student | Full-Stack Developer | Tech Enthusiast
 
-<br>
+I'm a passionate software engineering student who enjoys building modern,
+scalable, and user-friendly applications.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=5DE6E8&center=true&vCenter=true&width=800&lines=Welcome+to+my+digital+ocean+%F0%9F%8C%8A;AI+%2B+Machine+Learning+%F0%9F%A4%96;Software+Engineering+%F0%9F%92%BB;Building+Intelligent+Solutions+%F0%9F%92%A7;Learning.+Building.+Evolving.+%E2%9C%A8"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Thujeev15&style=for-the-badge&color=00AFC1&label=PROFILE+VIEWS"/>
-
-</div>
+I love turning ideas into real-world projects and continuously learning
+new technologies to improve my development skills.
 
 ---
 
-<div align="center">
+## 🚀 About Me
 
-# 🌊 THUJEEV KAMALESWARAN
-
-### `AI/ML Engineer` • `Software Engineer` • `Technology Explorer`
-
-> *Dive deep. Build smart. Create impact.*
-
-</div>
+- 🎓 Software Engineering Student
+- 💻 Interested in Full-Stack Development
+- 🌱 Currently improving my development skills
+- 🔭 Working on personal & academic projects
+- ⚡ Love building clean and meaningful applications
+- 🎯 Goal: Become a professional software engineer
 
 ---
 
-# 💧 ABOUT ME
+## 🛠️ Tech Stack
 
-<table>
-<tr>
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,python,html,css" />
+</p>
 
-<td width="58%">
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
 
-### `~$ whoami`
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
+</p>
 
-```yaml
-name: Thujeev Kamaleswaran
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 
-role:
-  - AI/ML Engineer
-  - Software Engineer
+---
 
-location: Sri Lanka 🇱🇰
+## 📌 Featured Projects
 
-interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Software Engineering
-  - Web Development
-  - Intelligent Systems
+### 🏥 Hospital Management System
+A software solution designed to manage hospital operations,
+patients, doctors, appointments and related workflows.
 
-philosophy:
-  "Keep learning.
-   Keep building.
-   Keep evolving."
+**Tech:** JavaScript • Node.js • MySQL
+
+### 🍵 Chai Kadai
+A modern tea shop website with a clean and responsive user interface.
+
+**Tech:** HTML • CSS • JavaScript
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💡 Developer Quote
+
+> "First, solve the problem. Then, write the code."
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
