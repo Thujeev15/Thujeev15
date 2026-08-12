@@ -1,14 +1,60 @@
 <p align="center">
-  <img src="https://robohash.org/Thujeev15.png?size=220x220" alt="robot avatar" width="220" style="border-radius:12px;"/>
-  <h1>Hi, I'm <strong>Thujeev</strong></h1>
-  <p>Software Engineering Student · Full-Stack Developer</p>
-  <p>
-    <img src="https://img.shields.io/badge/Available-Open%20to%20Work-00D9FF?style=flat-square&labelColor=07101f"/>
+  <img src="https://placehold.co/220x220?text=Profile&bg=ffffff&fg=07101f" alt="profile" width="220" style="border-radius:50%;border:2px solid #07101f;"/>
+  <h1 style="margin-top:12px;">Thujeev Kamaleswaran</h1>
+  <p style="margin:0;">Software Engineering Student · Full-Stack Developer</p>
+  <p style="margin-top:8px;">
+    <a href="https://github.com/Thujeev15"><img src="https://img.shields.io/badge/GitHub-@Thujeev15-181717?style=flat-square&labelColor=07101f" alt="GitHub"/></a>
     &nbsp;
-    <a href="https://github.com/Thujeev15"><img src="https://img.shields.io/badge/GitHub-Thujeev15-8B5CF6?style=flat-square&labelColor=07101f"/></a>
+    <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-contact%40youremail-00d9ff?style=flat-square&labelColor=07101f" alt="Email"/></a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-profile-0A66C2?style=flat-square&labelColor=07101f" alt="LinkedIn"/></a>
   </p>
 </p>
 
+---
+
+## Summary
+
+Detail-oriented software engineering student focused on building reliable, maintainable full‑stack applications. Experienced with React for frontend development and Node.js for backend services. Strong foundations in algorithms, data structures and web architecture; actively learning production-ready patterns and testing practices.
+
+---
+
+## Core Skills
+
+- Frontend: React, HTML5, CSS3, responsive design
+- Backend: Node.js, Express, REST APIs
+- Databases: MongoDB, MySQL
+- Languages: Java, JavaScript, Python
+- Tools: Git, GitHub, VS Code, Docker (basic)
+
+---
+
+## Selected Projects
+
+- Portfolio — Personal website (React, responsive design). Link: [Add URL]
+- Task Manager — MERN stack app with authentication and CRUD. Link: [Add URL]
+- E‑commerce Prototype — product listing, cart, basic checkout flow. Link: [Add URL]
+
+Include short 1–2 line descriptions for each project and a live/demo link when available.
+
+---
+
+## Education & Experience
+
+- B.Sc. / B.Tech in Software Engineering — [Your University], Expected [Year]
+- Internship / Project Experience — Briefly list roles or responsibilities here
+
+---
+
+## Contact
+
+- GitHub: https://github.com/Thujeev15
+- Email: youremail@example.com
+- LinkedIn: https://www.linkedin.com/in/yourprofile
+
+---
+
+_To finalize: replace the placeholder profile image, email and project links. I can update those for you if you provide them._
 ---
 
 ## About
