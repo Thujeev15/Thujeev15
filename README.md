@@ -1,98 +1,109 @@
+# 👋 Hi, I'm Thujeev Kamaleswaran
+
+### Aspiring AIML Engineer | Software Developer | SLIIT Undergraduate
+
 <p align="center">
-  <img src="https://placehold.co/220x220?text=Profile&bg=ffffff&fg=07101f" alt="profile" width="220" style="border-radius:50%;border:2px solid #07101f;"/>
-  <h1 style="margin-top:12px;">Thujeev Kamaleswaran</h1>
-  <p style="margin:0;">Software Engineering Student · Full-Stack Developer</p>
-  <p style="margin-top:8px;">
-    <a href="https://github.com/Thujeev15"><img src="https://img.shields.io/badge/GitHub-@Thujeev15-181717?style=flat-square&labelColor=07101f" alt="GitHub"/></a>
-    &nbsp;
-    <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-contact%40youremail-00d9ff?style=flat-square&labelColor=07101f" alt="Email"/></a>
-    &nbsp;
-    <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-profile-0A66C2?style=flat-square&labelColor=07101f" alt="LinkedIn"/></a>
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+AIML+Engineer;Software+Developer;Machine+Learning+Enthusiast;Building+Innovative+Solutions;Always+Learning+and+Growing" alt="Typing SVG" />
 </p>
 
 ---
 
-## Summary
+## 🚀 About Me
 
-Detail-oriented software engineering student focused on building reliable, maintainable full‑stack applications. Experienced with React for frontend development and Node.js for backend services. Strong foundations in algorithms, data structures and web architecture; actively learning production-ready patterns and testing practices.
+🎓 I am **Thujeev Kamaleswaran**, an undergraduate student at **Sri Lanka Institute of Information Technology (SLIIT)**.
 
----
+💡 Passionate about **Artificial Intelligence, Machine Learning, Software Engineering, and Full-Stack Development**.
 
-## Core Skills
+🎯 My ultimate goal is to become a highly skilled **AIML Engineer** and **Software Developer**, creating intelligent systems that solve real-world problems.
 
-- Frontend: React, HTML5, CSS3, responsive design
-- Backend: Node.js, Express, REST APIs
-- Databases: MongoDB, MySQL
-- Languages: Java, JavaScript, Python
-- Tools: Git, GitHub, VS Code, Docker (basic)
+🌱 Currently learning and exploring:
 
----
-
-## Selected Projects
-
-- Portfolio — Personal website (React, responsive design). Link: [Add URL]
-- Task Manager — MERN stack app with authentication and CRUD. Link: [Add URL]
-- E‑commerce Prototype — product listing, cart, basic checkout flow. Link: [Add URL]
-
-Include short 1–2 line descriptions for each project and a live/demo link when available.
+* Artificial Intelligence & Machine Learning
+* Data Structures & Algorithms
+* Software Engineering Principles
+* Web Development
+* Cloud Computing
+* Deep Learning
 
 ---
 
-## Education & Experience
+## 🛠️ Tech Stack
 
-- B.Sc. / B.Tech in Software Engineering — [Your University], Expected [Year]
-- Internship / Project Experience — Briefly list roles or responsibilities here
-
----
-
-## Contact
-
-- GitHub: https://github.com/Thujeev15
-- Email: youremail@example.com
-- LinkedIn: https://www.linkedin.com/in/yourprofile
-
----
-
-_To finalize: replace the placeholder profile image, email and project links. I can update those for you if you provide them._
----
-
-## About
-
-I build clean, responsive web apps—frontend with React and reliable backends with Node.js. I enjoy turning ideas into working software and learning new tools.
-
----
-
-## Tech
+### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,python,git&perline=8" alt="tech icons"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,html,css" />
 </p>
 
-- React · Node.js · JavaScript
-- MongoDB / MySQL · REST APIs
-- Java · Python
+### Frameworks & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,git,github,mysql,mongodb" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,figma,linux,postman" />
+</p>
 
 ---
 
-## Projects
+## 📊 GitHub Statistics
 
-- Portfolio — personal site (React) — [link your project]
-- Task Manager — MERN stack CRUD app — [link your project]
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## Contact
+## 🎯 2026 Goals
 
-- GitHub: https://github.com/Thujeev15
-- Email: add your email here
+* ✅ Master Python Programming
+* ✅ Build Advanced AI/ML Projects
+* ✅ Contribute to Open Source
+* ✅ Strengthen Data Structures & Algorithms
+* ✅ Develop Full-Stack Applications
+* 🎯 Secure a Professional Software Engineering Internship
+* 🎯 Become an AIML Specialist
 
 ---
 
-_Replace the robot image with your photo:_
+## 🏆 Achievements & Vision
 
-```markdown
-![Me](images/profile.jpg)
-```
+> "Technology is best when it empowers people and solves meaningful problems."
 
-Want it even simpler or translated to Tamil? I can adjust quickly.
+I am committed to continuous learning, innovation, and building impactful software solutions. Every project I work on is a step toward becoming a world-class AI Engineer and Software Developer.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<h3 align="center">
+🚀 Future AIML Engineer | 💻 Software Developer | 🎓 SLIIT Undergraduate
+</h3>
